@@ -207,7 +207,7 @@ android {
         }
 
         prod {
-            resValue "string", "app_title", "Tower"
+            resValue "string", "app_title", "AirZeta RC"
             resValue "string", "baidu_api_key", "41mPy2URFjOL61GzyWk8U5oLhhwSYGWe"
             buildConfigField "boolean", "WRITE_LOG_FILE", "false"
 
